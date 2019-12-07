@@ -1,0 +1,10 @@
+#theCalculator {
+  width: 350px !important;
+}
+
+#credits {
+  position: absolute;
+  margin: 50px;
+  bottom: 0;
+  right: 0;
+}
